@@ -1,0 +1,16 @@
+#solved-icon {
+    margin-left: 0.3vmin;
+    margin-top: 1vmin;
+}
+
+#hint-icon {
+    margin-top: 1vmin;
+}
+
+#clue {
+    margin-left: 0.6vmin;
+}
+
+.clickable {
+    cursor: pointer;
+}
