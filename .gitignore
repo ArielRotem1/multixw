@@ -1,5 +1,5 @@
 node_modules
-/hidden
+/backend
 .env
 TODO.txt
 Tests.txt
